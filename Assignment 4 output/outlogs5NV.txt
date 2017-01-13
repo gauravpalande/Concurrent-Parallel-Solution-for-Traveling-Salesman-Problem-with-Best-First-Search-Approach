@@ -1,0 +1,91 @@
+MPJ Express (0.44) is started in the cluster configuration with niodev
+Starting process <1> on <ip-172-31-36-129>
+Starting process <0> on <ip-172-31-38-191>
+Starting process <2> on <ip-172-31-33-115>
+Starting process <3> on <ip-172-31-37-44>
+Starting process <4> on <ip-172-31-16-221>
+Start time is : 1478638194014
+Estimated lower bound cost at root node is : 17.5
+i = 0
+j = 1
+ShoudBePruned : false
+i = 0
+j = 1
+ShoudBePruned : false
+i = 0
+j = 2
+ShoudBePruned : false
+i = 0
+j = 2
+ShoudBePruned : false
+i = 0
+j = 3
+ShoudBePruned : false
+i = 0
+j = 3
+ShoudBePruned : false
+Master process has send the nodes in the queue to all the processors
+i = 1
+i = 0
+i = 1
+i = 1
+j = 2
+ShoudBePruned : false
+i = 0
+j = 2
+ShoudBePruned : false
+i = 0
+j = 3
+ShoudBePruned : false
+i = 0
+j = 3
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+Node with lower bound 21.0 is pruned
+j = 2
+ShoudBePruned : true
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+Process with rank 3 sending data to parent process
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+Process with rank 4 sending data to parent process
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+Process with rank 1 sending data to parent process
+Node with lower bound 23.5 is pruned
+Process with rank 2 sending data to parent process
+The optimal path will include the below edges of the graph
+ AC AD BC BE DEPrinting the edge matrix representing the graph.
+   A B C D E 
+A  0 -1 1 1 -1 
+B  -1 0 1 -1 1 
+C  1 1 0 -1 -1 
+D  1 -1 -1 0 1 
+E  -1 1 -1 1 0 
+Optimal Route Cost is : 19.0
+End time is : 1478638194058
+Total time taken is : 44
+Stopping Process <0> on <ip-172-31-38-191>
+Stopping Process <2> on <ip-172-31-33-115>
+Stopping Process <3> on <ip-172-31-37-44>
+Stopping Process <4> on <ip-172-31-16-221>
+Stopping Process <1> on <ip-172-31-36-129>

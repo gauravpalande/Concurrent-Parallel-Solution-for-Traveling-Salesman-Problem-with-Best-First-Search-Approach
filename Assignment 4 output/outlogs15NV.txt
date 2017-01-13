@@ -1,0 +1,3819 @@
+MPJ Express (0.44) is started in the cluster configuration with niodev
+Starting process <1> on <ip-172-31-36-129>
+Starting process <0> on <ip-172-31-38-191>
+Starting process <2> on <ip-172-31-33-115>
+Starting process <3> on <ip-172-31-37-44>
+Starting process <4> on <ip-172-31-16-221>
+Start time is : 1478638337464
+Estimated lower bound cost at root node is : 18.5
+i = 0
+j = 1
+ShoudBePruned : false
+i = 0
+j = 1
+ShoudBePruned : false
+i = 0
+j = 2
+ShoudBePruned : false
+i = 0
+j = 2
+ShoudBePruned : false
+i = 0
+j = 3
+ShoudBePruned : false
+i = 0
+j = 3
+ShoudBePruned : false
+Master process has send the nodes in the queue to all the processors
+i = 0
+j = 4
+ShoudBePruned : false
+i = 0
+j = 4
+ShoudBePruned : false
+i = 0
+j = 5
+i = 0
+ShoudBePruned : false
+i = 0
+j = 5
+ShoudBePruned : false
+i = 0
+j = 4
+ShoudBePruned : false
+i = 0
+j = 4
+ShoudBePruned : false
+i = 0
+j = 5
+ShoudBePruned : false
+i = 0
+j = 5
+ShoudBePruned : false
+j = 6
+ShoudBePruned : false
+i = 0
+j = 6
+ShoudBePruned : false
+i = 0
+j = 7
+i = 0
+i = 0
+j = 6
+ShoudBePruned : false
+i = 0
+j = 6
+ShoudBePruned : false
+j = 3
+ShoudBePruned : false
+i = 0
+i = 0
+j = 2
+ShoudBePruned : false
+i = 0
+j = 2
+ShoudBePruned : false
+i = 0
+j = 3
+ShoudBePruned : false
+i = 0
+j = 3
+ShoudBePruned : false
+i = 0
+j = 4
+ShoudBePruned : false
+i = 0
+j = 4
+ShoudBePruned : false
+i = 0
+j = 5
+ShoudBePruned : false
+i = 0
+j = 5
+ShoudBePruned : false
+i = 0
+j = 6
+ShoudBePruned : false
+j = 3
+ShoudBePruned : false
+i = 0
+j = 4
+i = 0
+j = 7
+ShoudBePruned : false
+i = 0
+j = 7
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 0
+j = 9
+ShoudBePruned : false
+i = 0
+ShoudBePruned : false
+i = 0
+j = 4
+ShoudBePruned : false
+i = 0
+j = 5
+ShoudBePruned : false
+i = 0
+j = 5
+ShoudBePruned : false
+i = 0
+j = 6
+ShoudBePruned : false
+i = 0
+j = 6
+ShoudBePruned : false
+i = 0
+j = 7
+ShoudBePruned : false
+i = 0
+j = 7
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 0
+j = 9
+ShoudBePruned : false
+i = 0
+j = 9
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 7
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 0
+j = 9
+ShoudBePruned : false
+i = 0
+j = 9
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 0
+j = 12
+j = 9
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+i = 0
+j = 6
+ShoudBePruned : false
+i = 0
+j = 7
+ShoudBePruned : false
+i = 0
+j = 7
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 0
+j = 9
+ShoudBePruned : false
+i = 0
+j = 9
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 0
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 6
+j = 12
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+j = 2
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+ShoudBePruned : false
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 4
+j = 10
+i = 3
+j = 6
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 4
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 9
+j = 11
+ShoudBePruned : false
+i = 9
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 9
+j = 12
+ShoudBePruned : false
+i = 9
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 9
+j = 13
+ShoudBePruned : false
+i = 9
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+Node with lower bound 19.5 is pruned
+Node with lower bound 19.5 is pruned
+Node with lower bound 19.5 is pruned
+Node with lower bound 19.5 is pruned
+Node with lower bound 20.0 is pruned
+Node with lower bound 20.0 is pruned
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 2
+j = 9
+ShoudBePruned : false
+i = 2
+j = 9
+ShoudBePruned : false
+i = 0
+j = 7
+ShoudBePruned : false
+i = 0
+j = 7
+ShoudBePruned : false
+i = 2
+j = 10
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 2
+j = 10
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 0
+j = 8
+ShoudBePruned : false
+i = 2
+j = 11
+ShoudBePruned : false
+i = 2
+j = 11
+ShoudBePruned : false
+i = 0
+j = 9
+ShoudBePruned : false
+i = 0
+j = 9
+ShoudBePruned : false
+i = 2
+j = 12
+ShoudBePruned : false
+i = 2
+j = 12
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 2
+j = 13
+ShoudBePruned : false
+i = 2
+j = 13
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.5 is pruned
+Process with rank 2 sending data to parent process
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+i = 2
+j = 4
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+i = 1
+j = 4
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 1
+j = 4
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 4
+i = 1
+j = 4
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 1
+j = 5
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 2
+j = 11
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 2
+j = 9
+ShoudBePruned : false
+i = 2
+j = 9
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 2
+j = 10
+ShoudBePruned : false
+i = 2
+j = 10
+ShoudBePruned : false
+i = 2
+j = 9
+ShoudBePruned : false
+i = 2
+j = 9
+ShoudBePruned : false
+i = 2
+j = 11
+ShoudBePruned : false
+i = 2
+j = 11
+ShoudBePruned : false
+i = 2
+j = 10
+ShoudBePruned : false
+i = 2
+j = 10
+ShoudBePruned : false
+i = 2
+j = 12
+ShoudBePruned : false
+i = 2
+j = 12
+ShoudBePruned : false
+i = 2
+j = 11
+ShoudBePruned : false
+i = 2
+j = 11
+ShoudBePruned : false
+i = 2
+j = 13
+ShoudBePruned : false
+i = 2
+j = 13
+ShoudBePruned : false
+i = 2
+j = 12
+ShoudBePruned : false
+i = 2
+j = 12
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 2
+j = 13
+ShoudBePruned : false
+i = 2
+j = 13
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 2
+j = 9
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 2
+j = 10
+ShoudBePruned : false
+i = 2
+j = 10
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 0
+j = 10
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 2
+j = 11
+ShoudBePruned : false
+i = 2
+j = 11
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 0
+j = 11
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 2
+j = 12
+ShoudBePruned : false
+i = 2
+j = 12
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 0
+j = 12
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 2
+j = 13
+ShoudBePruned : false
+i = 2
+j = 13
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 0
+j = 13
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 7
+j = 8
+ShoudBePruned : false
+i = 7
+j = 8
+ShoudBePruned : false
+i = 9
+j = 11
+ShoudBePruned : false
+i = 9
+j = 11
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 9
+j = 12
+ShoudBePruned : false
+i = 9
+j = 12
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 4
+j = 11
+ShoudBePruned : false
+i = 4
+j = 11
+ShoudBePruned : false
+i = 8
+j = 9
+ShoudBePruned : false
+i = 8
+j = 9
+ShoudBePruned : false
+i = 9
+j = 13
+ShoudBePruned : false
+i = 9
+j = 13
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 4
+j = 12
+ShoudBePruned : false
+i = 4
+j = 12
+ShoudBePruned : false
+i = 8
+j = 11
+ShoudBePruned : false
+i = 8
+j = 11
+ShoudBePruned : false
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.5 is pruned
+Node with lower bound 30.5 is pruned
+Node with lower bound 31.0 is pruned
+Process with rank 3 sending data to parent process
+The optimal path will include the below edges of the graph
+ AD AN BF BH CE CI DK EK FI GL GO HJ JN LM MOPrinting the edge matrix representing the graph.
+   A B C D E F G H I J K L M N O 
+A  0 -1 -1 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 -1 
+B  -1 0 -1 -1 -1 1 -1 1 -1 -1 -1 -1 -1 -1 -1 
+C  -1 -1 0 -1 1 -1 -1 -1 1 -1 -1 -1 -1 -1 -1 
+D  1 -1 -1 0 -1 -1 -1 -1 -1 -1 1 -1 -1 -1 -1 
+E  -1 -1 1 -1 0 -1 -1 -1 -1 -1 1 -1 -1 -1 -1 
+F  -1 1 -1 -1 -1 0 -1 -1 1 -1 -1 -1 -1 -1 -1 
+G  -1 -1 -1 -1 -1 -1 0 -1 -1 -1 -1 1 -1 -1 1 
+H  -1 1 -1 -1 -1 -1 -1 0 -1 1 -1 -1 -1 -1 -1 
+I  -1 -1 1 -1 -1 1 -1 -1 0 -1 -1 -1 -1 -1 -1 
+J  -1 -1 -1 -1 -1 -1 -1 1 -1 0 -1 -1 -1 1 -1 
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 1
+j = 6
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 1
+j = 7
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 2
+j = 3
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 2
+j = 5
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 2
+j = 6
+ShoudBePruned : false
+i = 7
+j = 11
+ShoudBePruned : false
+i = 7
+j = 11
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+j = 2
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 5
+j = 11
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 4
+j = 10
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 5
+j = 6
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 5
+j = 7
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 5
+j = 9
+ShoudBePruned : false
+i = 7
+j = 8
+ShoudBePruned : false
+i = 7
+j = 8
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 5
+j = 12
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 6
+j = 7
+ShoudBePruned : false
+i = 8
+j = 9
+ShoudBePruned : false
+i = 8
+j = 9
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 8
+j = 11
+ShoudBePruned : false
+i = 8
+j = 11
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 6
+j = 9
+ShoudBePruned : false
+i = 8
+j = 12
+ShoudBePruned : false
+i = 8
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+K  -1 -1 -1 1 1 -1 -1 -1 -1 -1 0 -1 -1 -1 -1 
+L  -1 -1 -1 -1 -1 -1 1 -1 -1 -1 -1 0 1 -1 -1 
+M  -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 1 0 -1 1 
+N  1 -1 -1 -1 -1 -1 -1 -1 -1 1 -1 -1 -1 0 -1 
+O  -1 -1 -1 -1 -1 -1 1 -1 -1 -1 -1 -1 1 -1 0 
+Optimal Route Cost is : 19.0
+End time is : 1478638337682
+Total time taken is : 218
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 2
+j = 7
+ShoudBePruned : false
+i = 7
+j = 12
+ShoudBePruned : false
+i = 7
+j = 12
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 2
+j = 8
+ShoudBePruned : false
+i = 7
+j = 13
+ShoudBePruned : false
+i = 7
+j = 13
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 3
+j = 5
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 7
+j = 8
+ShoudBePruned : false
+i = 7
+j = 8
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 3
+j = 7
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 3
+j = 8
+ShoudBePruned : false
+i = 7
+j = 12
+ShoudBePruned : false
+i = 7
+j = 12
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 7
+j = 13
+ShoudBePruned : false
+i = 7
+j = 13
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 4
+j = 5
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 4
+j = 6
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 4
+i = 6
+Stopping Process <3> on <ip-172-31-37-44>
+Stopping Process <2> on <ip-172-31-33-115>
+Stopping Process <0> on <ip-172-31-38-191>
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 6
+j = 12
+ShoudBePruned : false
+i = 8
+j = 13
+ShoudBePruned : false
+i = 8
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 6
+j = 13
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 3
+j = 9
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 7
+j = 9
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 3
+j = 10
+ShoudBePruned : false
+i = 9
+j = 12
+ShoudBePruned : false
+i = 9
+j = 12
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 3
+j = 11
+ShoudBePruned : false
+i = 9
+j = 13
+ShoudBePruned : false
+i = 9
+j = 13
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 6
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+i = 6
+j = 11
+ShoudBePruned : false
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 20.5 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.0 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 21.5 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+Node with lower bound 22.0 is pruned
+j = 7
+ShoudBePruned : false
+i = 4
+j = 7
+ShoudBePruned : false
+i = 9
+j = 12
+ShoudBePruned : false
+i = 9
+j = 12
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 4
+j = 8
+ShoudBePruned : false
+i = 9
+j = 13
+ShoudBePruned : false
+i = 9
+j = 13
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 4
+j = 9
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 2
+j = 4
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 1
+j = 3
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 5
+j = 8
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 6
+j = 8
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+i = 3
+j = 4
+ShoudBePruned : false
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 22.5 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.0 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 23.5 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.0 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 24.5 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.0 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 25.5 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.0 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 26.5 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.0 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 27.5 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.0 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 28.5 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.0 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 29.5 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.0 is pruned
+Node with lower bound 30.5 is pruned
+Node with lower bound 30.5 is pruned
+Node with lower bound 30.5 is pruned
+Node with lower bound 30.5 is pruned
+Node with lower bound 30.5 is pruned
+Node with lower bound 30.5 is pruned
+Node with lower bound 30.5 is pruned
+Node with lower bound 31.0 is pruned
+Node with lower bound 31.0 is pruned
+Node with lower bound 31.0 is pruned
+Node with lower bound 31.0 is pruned
+Node with lower bound 31.0 is pruned
+Node with lower bound 31.0 is pruned
+Node with lower bound 31.0 is pruned
+Node with lower bound 31.0 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 31.5 is pruned
+Node with lower bound 32.0 is pruned
+Node with lower bound 32.0 is pruned
+Node with lower bound 32.0 is pruned
+Node with lower bound 32.0 is pruned
+Node with lower bound 32.0 is pruned
+Node with lower bound 32.0 is pruned
+Node with lower bound 32.0 is pruned
+Node with lower bound 32.0 is pruned
+Node with lower bound 32.5 is pruned
+Node with lower bound 32.5 is pruned
+Node with lower bound 32.5 is pruned
+Node with lower bound 32.5 is pruned
+Node with lower bound 32.5 is pruned
+Node with lower bound 32.5 is pruned
+Node with lower bound 33.0 is pruned
+Node with lower bound 33.0 is pruned
+Node with lower bound 33.5 is pruned
+Node with lower bound 34.0 is pruned
+Node with lower bound 34.0 is pruned
+Node with lower bound 34.5 is pruned
+Process with rank 4 sending data to parent process
+Stopping Process <4> on <ip-172-31-16-221>
+Process with rank 1 sending data to parent process
+Stopping Process <1> on <ip-172-31-36-129>

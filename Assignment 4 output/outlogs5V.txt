@@ -1,0 +1,307 @@
+MPJ Express (0.44) is started in the cluster configuration with niodev
+Starting process <1> on <ip-172-31-36-129>
+Starting process <0> on <ip-172-31-38-191>
+Starting process <2> on <ip-172-31-33-115>
+Starting process <3> on <ip-172-31-37-44>
+Starting process <4> on <ip-172-31-16-221>
+Start time is : 1478638189809
+Printing the edge matrix representing the graph.
+   A B C D E 
+A  0 3 4 2 7 
+B  3 0 4 6 3 
+C  4 4 0 5 8 
+D  2 6 5 0 6 
+E  7 3 8 6 0 
+Estimated lower bound cost at root node is : 17.5
+i = 0
+j = 1
+ShoudBePruned : false
+Computing the left node
+Edges considered : (A-B)
+Edges Not considered :
+Printing the edge matrix representing the graph.
+   A B C D E 
+A  0 1 0 0 0 
+B  1 0 0 0 0 
+C  0 0 0 0 0 
+D  0 0 0 0 0 
+E  0 0 0 0 0 
+Lower bound of this node : 17.5
+i = 0
+j = 1
+ShoudBePruned : false
+Computing the right node
+Edges considered :
+Edges Not considered : (A-B)
+Printing the edge matrix representing the graph.
+   A B C D E 
+A  0 -1 0 0 0 
+B  -1 0 0 0 0 
+C  0 0 0 0 0 
+D  0 0 0 0 0 
+E  0 0 0 0 0 
+Lower bound of this node : 18.5
+i = 0
+j = 2
+ShoudBePruned : false
+Computing the left node
+Edges considered : (A-B) (A-C)
+Edges Not considered : (A-D) (A-E)
+Printing the edge matrix representing the graph.
+   A B C D E 
+A  0 1 1 -1 -1 
+B  1 0 0 0 0 
+C  1 0 0 0 0 
+D  -1 0 0 0 0 
+E  -1 0 0 0 0 
+Lower bound of this node : 20.5
+i = 0
+j = 2
+ShoudBePruned : false
+Computing the right node
+Edges considered : (A-B)
+Edges Not considered : (A-C)
+Printing the edge matrix representing the graph.
+   A B C D E 
+A  0 1 -1 0 0 
+B  1 0 0 0 0 
+C  -1 0 0 0 0 
+D  0 0 0 0 0 
+E  0 0 0 0 0 
+Lower bound of this node : 18.0
+i = 0
+j = 3
+ShoudBePruned : false
+Computing the left node
+Edges considered : (A-B) (A-D)
+Edges Not considered : (A-C) (A-E)
+Printing the edge matrix representing the graph.
+   A B C D E 
+A  0 1 -1 1 -1 
+B  1 0 0 0 0 
+C  -1 0 0 0 0 
+D  1 0 0 0 0 
+E  -1 0 0 0 0 
+Lower bound of this node : 18.0
+i = 0
+j = 3
+ShoudBePruned : false
+Computing the right node
+Edges considered : (A-B) (A-E)
+Edges Not considered : (A-C) (A-D)
+Printing the edge matrix representing the graph.
+   A B C D E 
+A  0 1 -1 -1 1 
+B  1 0 0 0 0 
+C  -1 0 0 0 0 
+D  -1 0 0 0 0 
+E  1 0 0 0 0 
+Lower bound of this node : 23.0
+Master process has send the nodes in the queue to all the processors
+i = 1
+j = 2
+ShoudBePruned : false
+Computing the left node
+Edges considered : (A-B) (A-D) (B-C) (C-E) (D-E)
+Edges Not considered : (A-C) (A-E) (B-D) (B-E) (C-D)
+i = 0
+Printing the edge matrix representing the graph.
+  A B C D E 
+j = 2
+ShoudBePruned : false
+Computing the left node
+Edges considered : (A-C)
+Edges Not considered : (A-B)
+Printing the edge matrix representing the graph.
+  A B C D E 
+A 0 -1 1 0 0 
+A 0 1 -1 1 -1 
+B 1 0 1 -1 -1 
+B -1 0 0 0 0 
+C 1 0 0 0 0 
+C -1 1 0 -1 1 
+D 1 -1 -1 0 1 
+E -1 -1 1 1 0 
+Cost of the route found : 23.0
+i = 1
+j = 2
+ShoudBePruned : false
+i = 1
+D 0 0 0 0 0 
+Computing the right node
+Edges considered : (A-B) (A-D) (B-E) (C-D) (C-E)
+Edges Not considered : (A-C) (A-E) (B-C) (B-D) (D-E)
+Printing the edge matrix representing the graph.
+  A B C D E 
+i = 1
+E 0 0 0 0 0 
+j = 2
+ShoudBePruned : false
+Computing the left node
+Edges considered : (A-B) (A-E) (B-C) (C-D) (D-E)
+Edges Not considered : (A-C) (A-D) (B-D) (B-E) (C-E)
+Printing the edge matrix representing the graph.
+  A B C D E 
+A 0 1 -1 -1 1 
+j = 2
+ShoudBePruned : true
+i = 1
+j = 2
+ShoudBePruned : false
+B 1 0 1 -1 -1 
+C -1 1 0 1 -1 
+D -1 -1 1 0 1 
+E 1 -1 -1 1 0 
+Cost of the route found : 25.0
+i = 1
+Computing the right node
+Edges considered : (A-B) (A-C)
+Edges Not considered : (A-D) (A-E) (B-C)
+Printing the edge matrix representing the graph.
+  A B C D E 
+A 0 1 1 -1 -1 
+B 1 0 -1 0 0 
+C 1 -1 0 0 0 
+Lower bound of this node : 18.5
+i = 0
+j = 2
+ShoudBePruned : false
+D -1 0 0 0 0 
+j = 2
+ShoudBePruned : false
+Computing the right node
+Edges considered : (A-B) (A-E) (B-D) (C-D) (C-E)
+Edges Not considered : (A-C) (A-D) (B-C) (B-E) (D-E)
+Printing the edge matrix representing the graph.
+  A B C D E 
+E -1 0 0 0 0 
+Lower bound of this node : 21.0
+i = 1
+j = 3
+ShoudBePruned : false
+Computing the left node
+Edges considered : (A-B) (A-C) (B-D) (C-E) (D-E)
+Edges Not considered : (A-D) (A-E) (B-C) (B-E) (C-D)
+Printing the edge matrix representing the graph.
+  A B C D E 
+A 0 1 1 -1 -1 
+B 1 0 -1 1 -1 
+C 1 -1 0 -1 1 
+Computing the right node
+Edges considered : (A-D) (A-E)
+Edges Not considered : (A-B) (A-C)
+Printing the edge matrix representing the graph.
+  A B C D E 
+A 0 -1 -1 1 1 
+B -1 0 0 0 0 
+C -1 0 0 0 0 
+D 1 0 0 0 0 
+E 1 0 0 0 0 
+Lower bound of this node : 21.0
+i = 0
+j = 3
+ShoudBePruned : false
+Computing the left node
+Edges considered : (A-C) (A-D)
+Edges Not considered : (A-B) (A-E)
+Printing the edge matrix representing the graph.
+  A B C D E 
+A 0 -1 1 1 -1 
+A 0 1 -1 -1 1 
+B 1 0 -1 1 -1 
+C -1 -1 0 1 1 
+D -1 1 1 0 -1 
+E 1 -1 1 -1 0 
+Cost of the route found : 29.0
+Process with rank 4 sending data to parent process
+A 0 1 -1 1 -1 
+B 1 0 -1 -1 1 
+C -1 -1 0 1 1 
+D 1 -1 1 0 -1 
+E -1 1 1 -1 0 
+Cost of the route found : 21.0
+Process with rank 1 sending data to parent process
+D -1 1 -1 0 1 
+B -1 0 0 0 0 
+C 1 0 0 0 0 
+D 1 0 0 0 0 
+E -1 0 0 0 0 
+Lower bound of this node : 18.5
+i = 0
+j = 3
+ShoudBePruned : false
+Computing the right node
+Edges considered : (A-C) (A-E)
+Edges Not considered : (A-B) (A-D)
+E -1 -1 1 1 0 
+Cost of the route found : 27.0
+i = 1
+j = 3
+ShoudBePruned : false
+Computing the right node
+Edges considered : (A-B) (A-C) (B-E) (C-D) (D-E)
+Edges Not considered : (A-D) (A-E) (B-C) (B-D) (C-E)
+Printing the edge matrix representing the graph.
+  A B C D E 
+A 0 1 1 -1 -1 
+B 1 0 -1 -1 1 
+C 1 -1 0 1 -1 
+D -1 -1 1 0 1 
+E -1 1 -1 1 0 
+Cost of the route found : 21.0
+Process with rank 3 sending data to parent process
+Printing the edge matrix representing the graph.
+  A B C D E 
+A 0 -1 1 -1 1 
+B -1 0 0 0 0 
+C 1 0 0 0 0 
+D -1 0 0 0 0 
+E 1 0 0 0 0 
+Lower bound of this node : 23.5
+i = 1
+j = 2
+ShoudBePruned : false
+Computing the left node
+Edges considered : (A-C) (A-D) (B-C) (B-E) (D-E)
+Edges Not considered : (A-B) (A-E) (B-D) (C-D) (C-E)
+Printing the edge matrix representing the graph.
+  A B C D E 
+A 0 -1 1 1 -1 
+B -1 0 1 -1 1 
+C 1 1 0 -1 -1 
+D 1 -1 -1 0 1 
+E -1 1 -1 1 0 
+Cost of the route found : 19.0
+i = 1
+j = 2
+ShoudBePruned : false
+Computing the right node
+Edges considered : (A-C) (A-D) (B-D) (B-E) (C-E)
+Edges Not considered : (A-B) (A-E) (B-C) (C-D) (D-E)
+Printing the edge matrix representing the graph.
+  A B C D E 
+The optimal path will include the below edges of the graph
+ AC AD BC BE DEPrinting the edge matrix representing the graph.
+A 0 -1 1 1 -1 
+B -1 0 -1 1 1 
+C 1 -1 0 -1 1 
+   A B C D E 
+D 1 1 -1 0 -1 
+E -1 1 1 -1 0 
+Cost of the route found : 23.0
+Node with lower bound 21.0 is pruned
+Node with lower bound 23.5 is pruned
+Process with rank 2 sending data to parent process
+A  0 -1 1 1 -1 
+B  -1 0 1 -1 1 
+C  1 1 0 -1 -1 
+D  1 -1 -1 0 1 
+E  -1 1 -1 1 0 
+Optimal Route Cost is : 19.0
+End time is : 1478638189899
+Total time taken is : 90
+Stopping Process <0> on <ip-172-31-38-191>
+Stopping Process <2> on <ip-172-31-33-115>
+Stopping Process <3> on <ip-172-31-37-44>
+Stopping Process <1> on <ip-172-31-36-129>
+Stopping Process <4> on <ip-172-31-16-221>
